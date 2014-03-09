@@ -1,8 +1,8 @@
 Crates
 ======
 
-A small Flashpunk puzzle-game, based on the classic `Block Dude`.
-Actually it's just a remake, same levels, but new graphics and style.
+A small Flashpunk puzzle-game, based on the classic `Block Dude`. Actually it's just a remake, same levels, but new graphics and style.
+
 Play it here: http://www.thodd.net/demos/crates
 
 ![alt tag](https://raw.github.com/Thodd/Crates/master/crates_screen2.png)
