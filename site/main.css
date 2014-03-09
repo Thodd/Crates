@@ -1,0 +1,74 @@
+a:visited { text-decoration: none; color: #4E3EAE;}
+a:link { text-decoration: none; color: #4E3EAE;}
+a:hover { text-decoration: none; color: #FFFFFF;}
+
+body {
+	text-align:center;
+	font-family: Verdana,Arial;
+	font-size:12px;	
+	background: #ffffff;
+	color:#212121;
+	margin:0px;
+	padding: 0px;
+	border: 0;
+	overflow:hidden;
+}
+
+img{
+	border: 0;
+}
+
+.coloredText{
+	color:#4E3EAE;
+}
+
+.textbox{
+	color: #ffffff;
+	background: #000000;
+	border:1px solid #303030;
+	padding-bottom: 0px;
+}
+
+#login {
+	color: #555555;
+	text-align: center;
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:0px;
+	border: 0px solid #212121;
+}
+
+#main{
+	color: #ffffff;
+	text-align: center;
+	border: 5px solid #CFCFCF;
+	width: 416px;
+	padding: 8px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#header{
+	text-align: left;
+	vertical-align: middle;
+	color: #555555;
+	padding: 5px 0px 5px 5px;
+	margin-bottom: 200px;
+	border-bottom: 1px solid #CFCFCF;
+}
+
+#footer{
+	text-align: left;
+	vertical-align: bottom;
+	color: #555555;
+	padding: 5px 0px 5px 5px;
+	border-top: 1px solid #303030;
+}
+
+hr {
+	height:1px;
+	width: 477px;
+	border:1px;
+	color: #303030;
+	background-color: #303030;
+}

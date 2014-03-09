@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<project>
+	
+	<name>crates</name>
+	
+	<settings>
+		<defaultWidth>640</defaultWidth>
+		<defaultHeight>480</defaultHeight>
+		<workingDirectory>res</workingDirectory>
+	</settings>
+	
+	<values>
+		<string name="title" default="levelX" maxChars="100" />
+		<string name="password" default="---" minChars="3" maxChars="3" />
+	</values>
+	
+	<tilesets>
+		<tileset name="brick5" image="tiles.png" tileWidth="16" tileHeight="16"/>
+	</tilesets>
+	
+	<objects>
+		<object name="player" image="env/player.png" width="16" height="16" limit="1"/>
+		<object name="door" image="env/door.png" width="16" height="16" />
+		<object name="crate" image="env/crate.png" width="16" height="16" />
+	</objects> 
+	
+	<layers>
+		<tiles name="tiles" gridSize="16" exportTileIDs="true" />
+		<objects name="objects" gridSize="16"/> 
+	</layers>
+	
+</project>
